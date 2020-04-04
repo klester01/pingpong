@@ -1,0 +1,22 @@
+{
+  "name": "pingpong",
+  "version": "1.0.0",
+  "description": "Ping Pong Server",
+  "main": "pingpong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klester01/pingpong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klester01/pingpong/issues"
+  },
+  "homepage": "https://github.com/klester01/pingpong#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
